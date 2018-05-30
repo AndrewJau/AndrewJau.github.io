@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "fafa爱你~"
-date:   2017-11-27 07:42:23 +0800
-categories: jekyll update
+title:  "AI笔记本"
+date:   2018-02-09 19:42:23 +0800
+categories: Notebook
 ---
-永远永远喜欢宝宝~~~~
+
